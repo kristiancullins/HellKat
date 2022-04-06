@@ -1,0 +1,2 @@
+# HellKat
+Hello World! This Is my first real Power BI project. I have an affinity for sports and so I thought it would be a cool project to compare two legendary basketball players in Michael Jordan and LeBron James. This project isn't necessarily to conclude who is better but can be used as a tool to compare the two. Persoanlly, I'm Team LeBron but understand that Michael Jordan was a baddddddd man! Have fun and please leave any comments if there is any stat that you would like to see.
